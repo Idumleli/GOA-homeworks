@@ -13,6 +13,9 @@ print("პაითონი წარმოადგენს მაღალ�
 age01 = 28   # My age
 age02 = 30   # My friend's age
 
+print(age01)
+print(age02)
+
 # 4) String ტიპის ცვლადები:
 name = "Levan"
 surname = "Kobaidze"
